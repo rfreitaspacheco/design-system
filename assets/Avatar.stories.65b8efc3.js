@@ -1,0 +1,2 @@
+import{A as t}from"./index.b0a0cf88.js";import"./index.57dee79d.js";import"./iframe.39217dbd.js";import"./index.a948d2c0.js";import"./jsx-runtime.421c64ac.js";const i={title:"Data display/Avatar",component:t,args:{src:"https://github.com/rfreitaspacheco.png",alt:"Ricard Pacheco"},argTypes:{src:{control:{type:"text"}}}},p={},e={args:{src:void 0}},m=["Primary","WithFallback"];export{p as Primary,e as WithFallback,m as __namedExportsOrder,i as default};
+//# sourceMappingURL=Avatar.stories.65b8efc3.js.map
